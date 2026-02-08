@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Supernova (cover)",
+  "base_artist": "春野",
+  "createdAt": "2026-02-08T06:26:01.015889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Supernova (cover)",
+      "artist": "Haruno",
+      "has_synced": false,
+      "path": "select/01_Supernova_(cover)_Haruno.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Supernova (cover)",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_Supernova_(cover)_春野.txt"
+    }
+  ]
+}
